@@ -22,7 +22,7 @@ public class Main {
 
 
 
-        int temperaturas[][] = new int[10][10];
+        int temperaturas[][] = new int[10][2];
         temperaturas[0][0] = -2;
         temperaturas[0][1] = 33;
         temperaturas[1][0] = -3;
